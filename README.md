@@ -1,9 +1,7 @@
-PRIVACY POLICY
+PRIVACY POLICY 
+This is the Privacy Policy of Yourtickets ("Yourtickets," "we," "us" or "our"), a company having its address at Nieuw Grunder, Amsterdam. Our Privacy Policy explains how we collect, use, share and protect information in relation to our mobile services and any software provided on or in connection with Yourtickets services (collectively, the "Service"), and your choices about the collection and use of your information.
 
-This is the Privacy Policy of Yourtickets ("Yourtickets," "we," "us" or "our"), a company having its address at Amsterdam, Amsterdam. Our Privacy Policy explains how we collect, use, share and protect information in relation to our mobile services and any software provided on or in connection with Yourtickets services (collectively, the "Service"), and your choices about the collection and use of your information.
-
-
-This is the Privacy Policy of «=p1_rp_naam» ("«=naam_kort»," "we," "us" or "our"), a company having its address at «=p1_rp_adres», «=p1_rp_plaats». Our Privacy Policy explains how we collect, use, share and protect information in relation to our mobile services, our website «=website», and any software provided on or in connection with «=naam_kort» services (collectively, the "Service"), and your choices about the collection and use of your information.
+ This is the Privacy Policy of Yourtickets ( (Also mentioned as "we," "us" or "our"), a company having its address Nieuw Grunder, Amsterdam. Our Privacy Policy explains how we collect, use, share and protect information in relation to our mobile services, our website www.yourtickets.nl, and any software provided on or in connection with Yourtickets services (collectively, the "Service"), and your choices about the collection and use of your information.
 
 By using the Service, you understand and agree to the collection and use of information in accordance with this Privacy Policy. Our Privacy Policy applies to all visitors, users, and others who access the Service ("Users").
 
